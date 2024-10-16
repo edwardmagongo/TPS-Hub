@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "Para tomar una fotografía o un vídeo, esta aplicación requiere permiso para acceder a la cámara.";
+NSMicrophoneUsageDescription = "Para grabar audio para video, esta aplicación requiere permiso para acceder al micrófono.";
+NSPhotoLibraryUsageDescription = "Para cargar datos, esta aplicación requiere permiso para acceder a la biblioteca de fotos.";
+NSContactsUsageDescription = "Esta aplicación requiere acceso a los contactos para funcionar correctamente.";

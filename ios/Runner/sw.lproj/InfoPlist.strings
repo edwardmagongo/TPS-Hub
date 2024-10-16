@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "Ili kupiga picha au video, programu hii inahitaji ruhusa ya kufikia kamera.";
+NSMicrophoneUsageDescription = "Ili kurekodi sauti ya video, programu hii inahitaji ruhusa ya kufikia maikrofoni.";
+NSPhotoLibraryUsageDescription = "Ili kupakia data, programu hii inahitaji ruhusa ya kufikia maktaba ya picha.";
+NSContactsUsageDescription = "Programu hii inahitaji ufikiaji wa anwani ili kufanya kazi vizuri.";
