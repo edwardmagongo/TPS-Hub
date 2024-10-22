@@ -43,18 +43,6 @@ To run this project, you’ll need:
     flutter run
     ```
 
-## Project Structure
-TPSHub/
-├── lib/
-│   ├── components/       # Reusable Flutter widgets
-│   ├── screens/          # Individual screens for app features
-│   ├── services/         # Firebase and backend services
-│   ├── main.dart         # App entry point
-│   └── ...               # Other Dart files and configs
-├── android/              # Android-specific configurations
-├── ios/                  # iOS-specific configurations
-└── pubspec.yaml          # Flutter dependencies
-
 ### Firebase Integration
 The app uses Firebase for:
 - **Authentication**: User login and profile management.
@@ -98,4 +86,3 @@ Email: [edwardmagongo123@gmail.com](mailto:edwardmagongo123@gmail.com)
 ---
 
 Thank you for contributing to TPS Hub!
-
