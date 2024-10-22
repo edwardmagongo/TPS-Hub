@@ -44,8 +44,16 @@ To run this project, you’ll need:
     ```
 
 ## Project Structure
-TPSHub/ ├── lib/ │ ├── components/ # Reusable Flutter widgets │ ├── screens/ # Individual screens for app features │ ├── services/ # Firebase and backend services │ ├── main.dart # App entry point │ └── ... # Other Dart files and configs ├── android/ # Android-specific configurations ├── ios/ # iOS-specific configurations └── pubspec.yaml # Flutter dependencies
-
+TPSHub/
+├── lib/
+│   ├── components/       # Reusable Flutter widgets
+│   ├── screens/          # Individual screens for app features
+│   ├── services/         # Firebase and backend services
+│   ├── main.dart         # App entry point
+│   └── ...               # Other Dart files and configs
+├── android/              # Android-specific configurations
+├── ios/                  # iOS-specific configurations
+└── pubspec.yaml          # Flutter dependencies
 
 ### Firebase Integration
 The app uses Firebase for:
