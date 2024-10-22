@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "299456452647",
+    "project_id": "tpshub-381be",
+    "storage_bucket": "tpshub-381be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299456452647:android:dab58d797c4b48f5099602",
+        "android_client_info": {
+          "package_name": "com.tpshub.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299456452647-v6uublgl9khjdjomckftnmut8tjvlq82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2qpvMk-uAh3A7gyLRZ0-wZ9aCtoygIJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299456452647-v6uublgl9khjdjomckftnmut8tjvlq82.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299456452647-cfme4o89bihb5f5cg2nuea854ae3lsb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tpshub.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

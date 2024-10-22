@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "Pour prendre une photo ou une vidéo, cette application nécessite une autorisation d'accès à l'appareil photo.";
+NSMicrophoneUsageDescription = "Afin d'enregistrer l'audio d'une vidéo, cette application nécessite l'autorisation d'accéder au microphone.";
+NSPhotoLibraryUsageDescription = "Afin de télécharger des données, cette application nécessite une autorisation d'accès à la photothèque.";
+NSContactsUsageDescription = "Cette application nécessite l'accès aux contacts pour fonctionner correctement.";
